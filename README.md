@@ -1,6 +1,6 @@
 # OpenMeteo Weather Plotter
 
-![Voorbeeld Grafiek](voorbeeld.png)
+![Voorbeeld Grafiek](meteo.png)
 
 Een Python script dat automatisch actuele weerdata ophaalt via de **Open-Meteo API** en een strakke, transparante 3-daagse weergrafiek genereert. De grafiek toont het temperatuurverloop en de verwachte regenval binnen een rollend tijdsvenster (*sliding window*).
 
